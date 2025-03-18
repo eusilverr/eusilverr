@@ -17,7 +17,7 @@ Atualmente sou Desenvolvedor Fullstack e tenho facilidade tanto no Front-end qua
 
 </div>
 <br>
-# Tech Stack
+## Tech Stack
 
 <div align="center"><br>
 
